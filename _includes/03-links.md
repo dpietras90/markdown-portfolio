@@ -1,1 +1,1 @@
-(Google Site)[www.google.com]
+[Google Site](www.google.com)
